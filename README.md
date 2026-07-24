@@ -5,7 +5,7 @@
 #### 🎓 Education
 
 - **KyungHee University** <sub>(2024.03 ~)</sub>
-  - Undergraduate in Artifical Intelligence
+  - Undergraduate of Artifical Intelligence
 
 
 #### 💼 Experience
