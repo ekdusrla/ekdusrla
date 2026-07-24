@@ -13,7 +13,7 @@
 #### 💼 Experience
 
 - **ITIVAI** (2026.06 ~ 2026.08)
-  - Data Labeling & Modeling
+  - Data Labeling and Preprocessing for Smart Factory AI Solutions
 
 
 #### 📚 Activities
