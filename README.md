@@ -1,21 +1,21 @@
 ## Hi there 👋 I'm Dayeon Kim.
 
-## 🚀 I'm interested in AI, especially MultiModal
+# 🚀 I'm interested in AI, especially MultiModal
 
-## 🎓 Education
+# 🎓 Education
 
 - **KyhungHee University** (2024 ~)
   - Major in Artifical Intelligence
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 - **ITIVAI** (2026.06 ~ 2026.08)
   - Data Labeling & Modeling
 
 ---
 
-## 📚 Activities
+# 📚 Activities
 
 - 
