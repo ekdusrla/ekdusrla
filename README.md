@@ -15,7 +15,7 @@
 | **ITIVAI** | Intern | 2026.06 ~ 2026.08 | Data Labeling and Preprocessing for Smart Factory AI Solutions |
 | Kyung Hee University Kendo Club | President | 2026.02 ~ 2026.06 | |
 | Kyung Hee University Kendo Club | Vice President | 2025.08 ~ 2026.01<br>2026.07 ~ Present | |
-| Kyung Hee University Kendo Club | Treasurer | 2025.01 ~ 2025.07 | |
+| Kyung Hee University Kendo Club | General Affair | 2025.01 ~ 2025.07 | |
 | DASOM (Software Convergence Academic Club) | Member | 2024.03 ~ Present | |
 
 
