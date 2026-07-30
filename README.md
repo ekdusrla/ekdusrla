@@ -8,15 +8,17 @@
   - Undergraduate of Artifical Intelligence
 
 
+
 #### 🚀 Experience
 
-| Organization | Position | Period | Description |
-|--------------|----------|--------|-------------|
-| **ITIVAI** | Intern | 2026.06 ~ 2026.08 | Data Labeling and Preprocessing for Smart Factory AI Solutions |
-| Kyung Hee University Kendo Club | President | 2026.02 ~ 2026.06 | |
-| Kyung Hee University Kendo Club | Vice President | 2025.08 ~ 2026.01<br>2026.07 ~ Present | |
-| Kyung Hee University Kendo Club | General Affair | 2025.01 ~ 2025.07 | |
-| DASOM (Software Convergence Academic Club) | Member | 2024.03 ~ Present | |
+- **ITIVAI** | Intern <sub>(2026.06 ~ 2026.08)</sub>
+  - Data Labeling and Preprocessing for Smart Factory AI Solutions
+
+
+- 경희대학교 중앙동아리 검도부 회장 <sub>(2026.02 ~ 2026.06)</sub>
+- 경희대학교 중앙동아리 검도부 부회장 <sub>(2025.08 ~ 2026.01, 2026.07 ~)</sub>
+- 경희대학교 중앙동아리 검도부 총무 <sub>(2025.01 ~ 2025.07)</sub>
+- 경희대학교 소프트웨어융합대학 학술동아리 다솜 부원 <sub>(2024.03 ~)</sub>
 
 
 
