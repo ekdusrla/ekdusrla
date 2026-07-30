@@ -4,22 +4,22 @@
 
 #### 🎓 Education
 
-- **KyungHee University** <sub>(2024.03 ~)</sub><br>
-  - Undergraduate of Artifical Intelligence
+- **KyungHee University** <sub>(2024.03 - Present)</sub><br>
+  - Undergraduate Student in Artificial Intelligence
 
 
 
 #### 🚀 Experience
 
-- ITIVAI | AI Intern <sub>(2026.06 ~ 2026.08)</sub><br>
+- ITIVAI | AI Intern <sub>(2026.06 - 2026.08)</sub><br>
   - Data Labeling and Preprocessing for Smart Factory AI Solutions
 
 <br>
 
-- KyungHee University Kendo Club | President <sub>(2026.01 ~ 2026.06)</sub><br>
-- KyungHee University Kendo Club | Vice President <sub>(2025.08 ~ 2025.12, 2026.07 ~)</sub><br>
-- KyungHee University Kendo Club | General Affiar <sub>(2025.01 ~ 2025.07)</sub><br>
-- KyungHee University Software Convergence Academic Club DASOM | Member <sub>(2024.03 ~)</sub>
+- KyungHee University Kendo Club | President <sub>(2026.01 - 2026.06)</sub><br>
+- KyungHee University Kendo Club | Vice President <sub>(2025.08 - 2025.12, 2026.07 - Present)</sub><br>
+- KyungHee University Kendo Club | General Affiar <sub>(2025.01 - 2025.07)</sub><br>
+- KyungHee University Software Convergence Academic Club DASOM | Member <sub>(2024.03 - Present)</sub>
 
 
 
