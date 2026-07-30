@@ -11,14 +11,10 @@
 
 #### 🚀 Experience
 
-**Professional Experience**
-
 - ITIVAI | AI Intern <sub>(2026.06 – 2026.08)</sub><br>
   - Data Labeling and Preprocessing for Smart Factory AI Solutions
 
 <br>
-
-**Leadership & Activities**
 
 - Kyung Hee University Kendo Club | President <sub>(2026.01 ~ 2026.06)</sub><br>
 - Kyung Hee University Kendo Club | Vice President <sub>(2025.08 ~ 2025.12, 2026.07 ~)</sub><br>
