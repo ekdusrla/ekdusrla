@@ -11,7 +11,7 @@
 
 #### 🚀 Experience
 
-- ITIVAI | AI Intern <sub>(2026.06 – 2026.08)</sub><br>
+- ITIVAI | AI Intern <sub>(2026.06 ~ 2026.08)</sub><br>
   - Data Labeling and Preprocessing for Smart Factory AI Solutions
 
 <br>
