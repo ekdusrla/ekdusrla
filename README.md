@@ -22,6 +22,8 @@
 - KyungHee University Software Convergence Academic Club DASOM | Member <sub>(2024.03 - Present)</sub>
 
 
+<!--
+
 
 ---
 
@@ -49,3 +51,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+
+-->
