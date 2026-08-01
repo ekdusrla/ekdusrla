@@ -18,7 +18,7 @@
 
 - KyungHee University Kendo Club | President <sub>(2026.01 - 2026.06)</sub><br>
 - KyungHee University Kendo Club | Vice President <sub>(2025.08 - 2025.12, 2026.07 - Present)</sub><br>
-- KyungHee University Kendo Club | General Affiar <sub>(2025.01 - 2025.07)</sub><br>
+- KyungHee University Kendo Club | General Affair <sub>(2025.01 - 2025.07)</sub><br>
 - KyungHee University Software Convergence Academic Club DASOM | Member <sub>(2024.03 - Present)</sub>
 
 
