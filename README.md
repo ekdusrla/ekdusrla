@@ -1,4 +1,3 @@
-####  I'm interested in AI, especially MultiModal
 
 ---
 
